@@ -44,4 +44,18 @@ This directory contains Python solutions for **Array and Prefix Sum** problems f
 ---
 
 ## 📂 Folder Structure
+leetcode-solutions/
+└── Array and Prefix/
+├── two_sum.py
+├── best_time_to_buy_and_sell_stock.py
+├── best_time_to_buy_and_sell_stock_ii.py
+├── contains_duplicate.py
+└── ... (more solutions)
+
+## Each Python file contains:
+- Problem description (in comments)
+- Step-by-step logic
+- Clean Python code
+- Time and Space complexity (in comments)
+
 
