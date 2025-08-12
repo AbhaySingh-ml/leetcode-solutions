@@ -26,9 +26,9 @@ This directory contains Python solutions for **Array and Prefix Sum** problems f
 | ✅ | 121. Best Time to Buy and Sell Stock | Easy | [🔗 Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | ✅ | 122. Best Time to Buy and Sell Stock II | Medium | [🔗 Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |
 | ⬜ | 123. Best Time to Buy and Sell Stock III | Hard | [🔗 Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |
-| ⬜ | 53. Maximum Subarray | Medium | [🔗 Link](https://leetcode.com/problems/maximum-subarray/) |
+| ✅ | 53. Maximum Subarray | Medium | [🔗 Link](https://leetcode.com/problems/maximum-subarray/) |
 | ✅ | 217. Contains Duplicate | Easy | [🔗 Link](https://leetcode.com/problems/contains-duplicate/) |
-| ⬜ | 219. Contains Duplicate II | Easy | [🔗 Link](https://leetcode.com/problems/contains-duplicate-ii/) |
+| ✅ | 219. Contains Duplicate II | Easy | [🔗 Link](https://leetcode.com/problems/contains-duplicate-ii/) |
 | ⬜ | 220. Contains Duplicate III | Hard | [🔗 Link](https://leetcode.com/problems/contains-duplicate-iii/) |
 | ⬜ | 238. Product of Array Except Self | Medium | [🔗 Link](https://leetcode.com/problems/product-of-array-except-self/) |
 | ⬜ | 169. Majority Element | Easy | [🔗 Link](https://leetcode.com/problems/majority-element/) |
